@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+kbd {
+  background: black;
+}
+
 img {
     border: 1px solid #000000;
 }
