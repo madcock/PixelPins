@@ -9,10 +9,10 @@
 
 |  Pinball Tourney Set 1  |  |
 |  :---:    |  :---:        |
-|  <kbd><img src="images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game"></kbd>  |
-|  <kbd><img src="images/KnockoutHeart2_PREVIEW.gif"></kbd>  |  1 Strike (video game"></kbd>  |
-|  <kbd><img src="images/KnockoutHeart1_PREVIEW.gif"></kbd>  |  2 Strikes (video game"></kbd>  |
-|  <kbd><img src="images/GAME_OVER_PREVIEW.gif"></kbd>  |  3 Strikes (video game"></kbd>  |
+|  <kbd><img src="images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game">  |
+|  <kbd><img src="images/KnockoutHeart2_PREVIEW.gif"></kbd>  |  1 Strike (video game">  |
+|  <kbd><img src="images/KnockoutHeart1_PREVIEW.gif"></kbd>  |  2 Strikes (video game">  |
+|  <kbd><img src="images/GAME_OVER_PREVIEW.gif"></kbd>  |  3 Strikes (video game">  |
 |  <kbd><img src="images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
 |  <kbd><img src="images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
 |  <kbd><img src="images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
