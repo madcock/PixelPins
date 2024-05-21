@@ -1,53 +1,53 @@
 |  Arcade and Video Games  |  |
 |  :---:    |  :---:        |
-|  ![image](images/Frogger_PREVIEW.gif)  |  Froggy  |
-|  ![image](images/Invaders1_PREVIEW.gif)  |  Badge Invaders 1  |
-|  ![image](images/Invaders2_PREVIEW.gif)  |  Badge Invaders 2  |
-|  ![image](images/Invaders3_PREVIEW.gif)  |  Badge Invaders 3  |
-|  ![image](images/Pacman_PREVIEW.gif)  |  Chomp chomp!  |
-|  ![image](images/IBrokeTheCode_PREVIEW.gif)  |  The Code  |
+|  <kbd><img src="images/Frogger_PREVIEW.gif"></kbd>">  |  Froggy  |
+|  <kbd><img src="images/Invaders1_PREVIEW.gif"></kbd>">  |  Badge Invaders 1  |
+|  <kbd><img src="images/Invaders2_PREVIEW.gif"></kbd>">  |  Badge Invaders 2  |
+|  <kbd><img src="images/Invaders3_PREVIEW.gif"></kbd>  |  Badge Invaders 3  |
+|  <kbd><img src="images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
+|  <kbd><img src="images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 
 |  Pinball Tourney Set 1  |  |
 |  :---:    |  :---:        |
-|  ![image](images/KnockoutHeart3_PREVIEW.gif)  |  No Strikes (video game)  |
-|  ![image](images/KnockoutHeart2_PREVIEW.gif)  |  1 Strike (video game)  |
-|  ![image](images/KnockoutHeart1_PREVIEW.gif)  |  2 Strikes (video game)  |
-|  ![image](images/GAME_OVER_PREVIEW.gif)  |  3 Strikes (video game)  |
-|  ![image](images/Knockout1ST_PREVIEW.gif)  |  1st Place  |
-|  ![image](images/Knockout2ND_PREVIEW.gif)  |  2nd Place  |
-|  ![image](images/Knockout3RD_PREVIEW.gif)  |  3rd Place  |
-|  ![image](images/ISuckAtPinball_PREVIEW.gif)  |  Are you good at pinball?  |
+|  <kbd><img src="images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game"></kbd>  |
+|  <kbd><img src="images/KnockoutHeart2_PREVIEW.gif"></kbd>  |  1 Strike (video game"></kbd>  |
+|  <kbd><img src="images/KnockoutHeart1_PREVIEW.gif"></kbd>  |  2 Strikes (video game"></kbd>  |
+|  <kbd><img src="images/GAME_OVER_PREVIEW.gif"></kbd>  |  3 Strikes (video game"></kbd>  |
+|  <kbd><img src="images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
+|  <kbd><img src="images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
+|  <kbd><img src="images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
+|  <kbd><img src="images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
 
 |  Pinball Tourney Set 2  |  |
 |  :---:    |  :---:        |
-|  ![image](images/KnockoutNoStrikes_PREVIEW.gif)  |  No Strikes  |
-|  ![image](images/KnockoutStrike1_PREVIEW.gif)  |  1 Strike  |
-|  ![image](images/KnockoutStrike2_PREVIEW.gif)  |  2 Strikes  |
-|  ![image](images/KnockoutStrike3_PREVIEW.gif)  |  3 Strikes  |
-|  ![image](images/Knockout1ST_PREVIEW.gif)  |  1st Place  |
-|  ![image](images/Knockout2ND_PREVIEW.gif)  |  2nd Place  |
-|  ![image](images/Knockout3RD_PREVIEW.gif)  |  3rd Place  |
-|  ![image](images/ISuckAtPinball_PREVIEW.gif)  |  Are you good at pinball?  |
+|  <kbd><img src="images/KnockoutNoStrikes_PREVIEW.gif"></kbd>  |  No Strikes  |
+|  <kbd><img src="images/KnockoutStrike1_PREVIEW.gif"></kbd>  |  1 Strike  |
+|  <kbd><img src="images/KnockoutStrike2_PREVIEW.gif"></kbd>  |  2 Strikes  |
+|  <kbd><img src="images/KnockoutStrike3_PREVIEW.gif"></kbd>  |  3 Strikes  |
+|  <kbd><img src="images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
+|  <kbd><img src="images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
+|  <kbd><img src="images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
+|  <kbd><img src="images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
 
 |  Optional for Tourney Sets  |  |
 |  :---:    |  :---:        |
-|  ![image](images/Knockout4TH_PREVIEW.gif)  |  4th Place  |
+|  <kbd><img src="images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
 
 |  Local Pinball Scene  |  |
 |  :---:    |  :---:        |
-|  ![image](images/Add-a-ballTime_PREVIEW.gif)  |  What time is it?  |
-|  ![image](images/AllThePoints_PREVIEW.gif)  |  How many points do we need?  |
-|  ![image](images/GoodLuckHaveFun_PREVIEW.gif)  |  Pinball Etiquette  |
-|  ![image](images/MyBallsAreFullOfMagic_PREVIEW.gif)  |  The Theatre of Magic awaits...  |
-|  ![image](images/SkillShot_PREVIEW.gif)  |  The `Zine on the scene!  |
+|  <kbd><img src="images/Add-a-ballTime_PREVIEW.gif"></kbd>  |  What time is it?  |
+|  <kbd><img src="images/AllThePoints_PREVIEW.gif"></kbd>  |  How many points do we need?  |
+|  <kbd><img src="images/GoodLuckHaveFun_PREVIEW.gif"></kbd>  |  Pinball Etiquette  |
+|  <kbd><img src="images/MyBallsAreFullOfMagic_PREVIEW.gif"></kbd>  |  The Theatre of Magic awaits...  |
+|  <kbd><img src="images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
 
 |  Pinball Miscellanea  |  |
 |  :---:    |  :---:        |
-|  ![image](images/ExtraBall_PREVIEW.gif)  |  Extra Ball  |
-|  ![image](images/ShootAgain_PREVIEW.gif)  |  Shoot Again  |
-|  ![image](images/SpecialWhenLit_PREVIEW.gif)  |  Special When Lit  |
-|  ![image](images/TILT_PREVIEW.gif)  |  TILT  |
+|  <kbd><img src="images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
+|  <kbd><img src="images/ShootAgain_PREVIEW.gif"></kbd>  |  Shoot Again  |
+|  <kbd><img src="images/SpecialWhenLit_PREVIEW.gif"></kbd>  |  Special When Lit  |
+|  <kbd><img src="images/TILT_PREVIEW.gif"></kbd>  |  TILT  |
 
 |  Work in Progress...  |  |
 |  :---:    |  :---:        |
-|  ![image](images/Spaceship_PREVIEW.gif)  |  This will likely die in a fire soon.  |
+|  <kbd><img src="images/Spaceship_PREVIEW.gif"></kbd>  |  This will likely die in a fire soon.  |
