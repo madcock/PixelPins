@@ -1,9 +1,9 @@
 
 |  Arcade and Video Games  |  |
 |  :---:    |  :---:        |
-|  ![image](images/Frogger_PREVIEW.gif)  |  Froggy<br/><br/>  |
+|  <img src="images/Frogger_PREVIEW.gif">  Froggy  |  Froggy  |
 |  ![image](images/Invaders1_PREVIEW.gif)  |  Badge Invaders 1  |
-|  ![image](images/Invaders2_PREVIEW.gif)  |  Badge Invaders 2 |
+|  ![image](images/Invaders2_PREVIEW.gif)  |  Badge Invaders 2  |
 |  ![image](images/Invaders3_PREVIEW.gif)  |  Badge Invaders 3  |
 |  ![image](images/Pacman_PREVIEW.gif)  |  Chomp chomp!  |
 |  ![image](images/IBrokeTheCode_PREVIEW.gif)  |  The Code  |
