@@ -6,6 +6,7 @@ There are a maximum of 8 slots per badge, so choose up to 8 different animations
 Any of the slots can be used for [custom text](../custom_text) instead of animations.
 
 ## Arcade and Video Games
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
@@ -16,6 +17,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 
 ## Pinball Tourney Set 1
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game)  |
@@ -28,6 +30,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
 
 ## Pinball Tourney Set 2
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/KnockoutNoStrikes_PREVIEW.gif"></kbd>  |  No Strikes  |
@@ -40,11 +43,13 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
 
 ## Optional for Tourney Sets
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
 
 ## Local Pinball Scene
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Add-a-ballTime_PREVIEW.gif"></kbd>  |  What time is it?  |
@@ -54,6 +59,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
 
 ## Pinball Miscellanea
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
@@ -62,6 +68,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/TILT_PREVIEW.gif"></kbd>  |  TILT  |
 
 ## Work in Progress...
+
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Spaceship_PREVIEW.gif"></kbd>  |  Galaga ship, but *what will it do?*  |
