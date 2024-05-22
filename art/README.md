@@ -3,12 +3,12 @@ Lots of different animations can be put on the badge. There are a maximum of 8 s
 
 |  Arcade and Video Games  |  |
 |  :---:    |  :---        |
-|  <kbd><img src="images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
-|  <kbd><img src="images/Invaders1_PREVIEW.gif"></kbd>  |  Badge Invaders 1  |
-|  <kbd><img src="images/Invaders2_PREVIEW.gif"></kbd>  |  Badge Invaders 2  |
-|  <kbd><img src="images/Invaders3_PREVIEW.gif"></kbd>  |  Badge Invaders 3  |
-|  <kbd><img src="images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
-|  <kbd><img src="images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
+|  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
+|  <kbd><img src="../images/Invaders1_PREVIEW.gif"></kbd>  |  Badge Invaders 1  |
+|  <kbd><img src="../images/Invaders2_PREVIEW.gif"></kbd>  |  Badge Invaders 2  |
+|  <kbd><img src="../images/Invaders3_PREVIEW.gif"></kbd>  |  Badge Invaders 3  |
+|  <kbd><img src="../images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
+|  <kbd><img src="../images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 
 |  Pinball Tourney Set 1  |  |
 |  :---:    |  :---        |
