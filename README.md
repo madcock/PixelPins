@@ -13,7 +13,6 @@ Each can store up to 8 different things, chosen with a button.
   [Find out more about personalized messages](custom_text/)
 
 ## Tell me more :exclamation:
-- `TODO: price`
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
 - 4 selectable brightness settings. [^4]
 - 6 color choices
@@ -25,6 +24,7 @@ Each can store up to 8 different things, chosen with a button.
 - 14+ hours of power on a full charge [^3]
   - Rechargeable battery takes about an hour to charge when empty [^2]
   - Comes with a Micro USB cable for charging
+- Available at the [Pinball Wrestling](https://pinballwrestling.com/) booth at [The Northwest Pinball & Arcade Show](https://www.nwpinballshow.com/)
 
 ## Can I update it myself :question:
 - Yes, you can put whatever text you want on them, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
