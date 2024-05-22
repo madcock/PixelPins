@@ -64,4 +64,4 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Spaceship_PREVIEW.gif"></kbd>  |  Galaga ship, but *what will it do?*  |
 
-[^1]: It may not be possible to use 8 of the longest animations on the same badge due to size limits. (The video game characters at the top are the largest.)
+[^1]: It may not be possible to use 8 of the longest animations on the same badge due to memory limits. (The video game characters at the top are the largest.)
