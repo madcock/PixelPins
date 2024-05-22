@@ -1,6 +1,9 @@
 # Art
-Lots of different animations can be put on the badge. There are a maximum of 8 slots per badge, so choose up to 8 different animations.
+Lots of different animations can be put on the badge.\
+There are a maximum of 8 slots per badge, so choose up to 8 different animations. [^1]\
+Any of the slots can also be used for [custom text](../custom_text) instead of animations.
 
+## Arcade and Video Games
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
@@ -10,7 +13,8 @@ Lots of different animations can be put on the badge. There are a maximum of 8 s
 |  <kbd><img src="../images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
 |  <kbd><img src="../images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 
-|  Pinball Tourney Set 1  |  |
+## Pinball Tourney Set 1
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game)  |
 |  <kbd><img src="../images/KnockoutHeart2_PREVIEW.gif"></kbd>  |  1 Strike (video game)  |
@@ -21,7 +25,8 @@ Lots of different animations can be put on the badge. There are a maximum of 8 s
 |  <kbd><img src="../images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
 |  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
 
-|  Pinball Tourney Set 2  |  |
+## Pinball Tourney Set 2
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/KnockoutNoStrikes_PREVIEW.gif"></kbd>  |  No Strikes  |
 |  <kbd><img src="../images/KnockoutStrike1_PREVIEW.gif"></kbd>  |  1 Strike  |
@@ -32,11 +37,13 @@ Lots of different animations can be put on the badge. There are a maximum of 8 s
 |  <kbd><img src="../images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
 |  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
 
-|  Optional for Tourney Sets  |  |
+## Optional for Tourney Sets
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
 
-|  Local Pinball Scene  |  |
+## Local Pinball Scene
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Add-a-ballTime_PREVIEW.gif"></kbd>  |  What time is it?  |
 |  <kbd><img src="../images/AllThePoints_PREVIEW.gif"></kbd>  |  How many points do we need?  |
@@ -44,13 +51,17 @@ Lots of different animations can be put on the badge. There are a maximum of 8 s
 |  <kbd><img src="../images/MyBallsAreFullOfMagic_PREVIEW.gif"></kbd>  |  The Theatre of Magic awaits...  |
 |  <kbd><img src="../images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
 
-|  Pinball Miscellanea  |  |
+## Pinball Miscellanea
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
 |  <kbd><img src="../images/ShootAgain_PREVIEW.gif"></kbd>  |  Shoot Again  |
 |  <kbd><img src="../images/SpecialWhenLit_PREVIEW.gif"></kbd>  |  Special When Lit  |
 |  <kbd><img src="../images/TILT_PREVIEW.gif"></kbd>  |  TILT  |
 
-|  Work in Progress...  |  |
+## Work in Progress...
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Spaceship_PREVIEW.gif"></kbd>  |  Galaga ship, but *what will it do?*  |
+
+[^1]: It may not be possible to use 8 of the longest animations on the same badge due to size limits. (The video game characters at the top are the largest.)
