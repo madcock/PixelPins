@@ -1,4 +1,4 @@
-# What are PixelPins :question:
+## What are PixelPins :question:
 They're like personalized pinball DMD displays you can wear. \
 Use it as a fashion statement, or a tournament status tracker. \
 Each can store up to 8 different things, chosen with a button.
@@ -9,12 +9,12 @@ Each can store up to 8 different things, chosen with a button.
 - more than 30 animations to choose from... \
   [Hop over and check out the options!](art/) \
   <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd>
-- custom message \
+- custom messages \
   [Find out more about personalized messages](custom_text/)
 
 ## Tell me more :exclamation:
 - `TODO: price`
-- 7 color choices
+- 6 color choices
   - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, <span style="background-color:#000;color:lime;font-weight:bold;padding:3px">green</span>, <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>, and <span style="background-color:#000;color:pink;font-weight:bold;padding:3px">pink</span>.
 - 8 customizable slots
   - Each one plays on a loop.
