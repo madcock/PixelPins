@@ -57,6 +57,7 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/GoodLuckHaveFun_PREVIEW.gif"></kbd>  |  Pinball Etiquette  |
 |  <kbd><img src="../images/MyBallsAreFullOfMagic_PREVIEW.gif"></kbd>  |  The Theatre of Magic awaits...  |
 |  <kbd><img src="../images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
+|  <kbd><img src="../images/SpecialsComingThrough_PREVIEW.gif"></kbd>  |  SPECIALS!!!  |
 |  <kbd><img src="../images/SpecialK_PREVIEW.gif"></kbd>  |  For the Pinball Wrestling fans!  |
 
 ## Pinball Miscellanea
