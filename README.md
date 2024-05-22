@@ -3,6 +3,8 @@ They're like personalized pinball DMD displays you can wear. \
 Use it as a fashion statement, or a tournament status tracker. \
 Each can store up to 8 different things, chosen with a button.
 
+`TODO: picture/video of actual badge`
+
 ## What can I put on them :question:
 - more than 30 animations to choose from... \
   [Hop over and check out the options!](art/) \
