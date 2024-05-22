@@ -4,18 +4,13 @@ Use it as a fashion statement, or a tournament status tracker. \
 Each can store up to 8 different things, chosen with a button.
 
 ## What can I put on them :question:
-- more than 30 custom animations to choose from including...
-  - video game characters
-  - pinball 3-strike knockout tournament status [^1]
-  - local pinball memes and slogans
-  - general pinball phrases
-- custom text (scrolling if needed)
-  - your name
-  - your pinball initials
-  - whatever you want! [^2]
-
-<kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd> \
+- more than 30 animations to choose from...
+  
+  <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd> \
 [Hop over and check out the options!](art/)
+- custom message (scrolling if needed)
+  
+[Find out more about personalized messages](custom_text/)
 
 ## Tell me more :exclamation:
 - `TODO: price`
@@ -24,10 +19,10 @@ Each can store up to 8 different things, chosen with a button.
 - 8 customizable slots
   - Each one plays on a loop. A ninth demo mode plays all the slots, a single time through, in a loop.
 - Long lasting battery
-  - Rechargeable battery takes about an hour to charge when empty. [^3]
-  - Lasts at least 14 hours on a full charge. [^4]
+  - Rechargeable battery takes about an hour to charge when empty. [^2]
+  - Lasts at least 14 hours on a full charge. [^3]
   - Comes with a Micro USB cable for charging.
-- 4 selectable brightness settings. [^5]
+- 4 selectable brightness settings. [^4]
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
 
 ## Can I update it myself :question:
@@ -50,8 +45,9 @@ Each can store up to 8 different things, chosen with a button.
 |:---:|:---:|
 |Before PixelPins<br/><img src="https://github.com/madcock/PixelPins/assets/2106838/68e4d674-3801-4fff-88f3-3521466ecc75" alt="Special K before PixelPins" width="240" height="322">|After PixelPins<br/><img src="https://github.com/madcock/PixelPins/assets/2106838/91404f92-4d0a-407d-bd2e-e88741ffbc3e" alt="Special K after PixelPins" width="240" height="322">|
 
+## Notes
+
 [^1]: Press the button to manually change your stike count and status. These things don't have WiFi, so can't update automatically.
-[^2]: Please, no offensive language. I reserve the right to deny requests, but am happy to work with you to get something you like on the badge. Thanks!
-[^3]: Testing showed the battery took an hour and 15 minutes to fully charge.
-[^4]: On full charge and 100% brightness, the battery lasted 14.5 hours before turning off.
-[^5]: 100% brightness is *very* bright and is too bright to show well in most photos. 75% is recommended.
+[^2]: Testing showed the battery took an hour and 15 minutes to fully charge.
+[^3]: On full charge and 100% brightness, the battery lasted 14.5 hours before turning off.
+[^4]: 100% brightness is *very* bright and is too bright to show well in most photos. 75% is recommended.
