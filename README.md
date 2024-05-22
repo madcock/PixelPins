@@ -4,20 +4,19 @@ Use it as a fashion statement, or a tournament status tracker. \
 Each can store up to 8 different things, chosen with a button.
 
 ## What can I put on them :question:
-- more than 30 animations to choose from...
-  
-  <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd> \
-[Hop over and check out the options!](art/)
-- custom message (scrolling if needed)
-  
-[Find out more about personalized messages](custom_text/)
+- more than 30 animations to choose from... \
+  [Hop over and check out the options!](art/) \
+  <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd>
+- custom message \
+  [Find out more about personalized messages](custom_text/)
 
 ## Tell me more :exclamation:
 - `TODO: price`
 - 7 color choices
   - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, <span style="background-color:#000;color:lime;font-weight:bold;padding:3px">green</span>, <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>, and <span style="background-color:#000;color:pink;font-weight:bold;padding:3px">pink</span>.
 - 8 customizable slots
-  - Each one plays on a loop. A ninth demo mode plays all the slots, a single time through, in a loop.
+  - Each one plays on a loop.
+  - A ninth demo mode plays all the slots, a single time through, in a loop.
 - Long lasting battery
   - Rechargeable battery takes about an hour to charge when empty. [^2]
   - Lasts at least 14 hours on a full charge. [^3]
@@ -26,7 +25,7 @@ Each can store up to 8 different things, chosen with a button.
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
 
 ## Can I update it myself :question:
-- Yes, you can put whatever text you want on the badges, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
+- Yes, you can put whatever text you want on them, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
   - `TODO: provide links to all customanimations`
 - Android apps (easy)
   - There are two Android apps for loading custom text via Bluetooth, but they cannot load custom animations.
