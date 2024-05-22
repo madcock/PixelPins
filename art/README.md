@@ -1,7 +1,7 @@
 # Art
 Lots of different animations can be put on the badge. There are a maximum of 8 slots per badge, so choose up to 8 different animations.
 
-|  Arcade and Video Games  |  |
+|  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
 |  <kbd><img src="../images/Invaders1_PREVIEW.gif"></kbd>  |  Badge Invaders 1  |
