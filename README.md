@@ -1,9 +1,9 @@
-# What are PixelPins?
+# What are PixelPins :question:
 They're like personalized pinball DMD displays you can wear. \
 Use it as a fashion statement, or a tournament status tracker. \
 Each can store up to 8 different things, chosen with a button.
 
-## What can I put on them?
+## What can I put on them :question:
 - more than 30 custom animations to choose from including...
   - video game characters
   - pinball 3-strike knockout tournament status [^1]
@@ -17,7 +17,7 @@ Each can store up to 8 different things, chosen with a button.
 <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd> \
 [Hop over and check out the options!](art/)
 
-## Tell me more!
+## Tell me more :exclamation:
 - `TODO: price`
 - 7 color choices
   - <span style="background-color:#000;color:red">red</span>, <span style="background-color:#000;color:blue">blue</span>, <span style="background-color:#000;color:white">white</span>, <span style="background-color:#000;color:green">green</span>, <span style="background-color:#000;color:yellow">yellow</span>, and <span style="background-color:#000;color:pink">pink</span>.
@@ -30,7 +30,7 @@ Each can store up to 8 different things, chosen with a button.
 - 4 selectable brightness settings. [^5]
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
 
-## Can I update it myself?
+## Can I update it myself :question:
 - Yes, you can put whatever text you want on the badges, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
   - `TODO: provide links to all customanimations`
 - Android apps (easy)
@@ -44,7 +44,7 @@ Each can store up to 8 different things, chosen with a button.
   - Open source command line tools exist as well. Links are provided below, but only recommended if you want to take on a project, similar to a moderately difficult Raspberry Pi project. (A Pi can definitely be used to update the PixelPins.)
   - `TODO: provide link to repos for the Linux utils and info`
 
-## Another satisfied customer!
+## Another satisfied customer :exclamation:
 
 |  |  |
 |:---:|:---:|
