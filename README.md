@@ -20,7 +20,7 @@ Each can store up to 8 different things, chosen with a button.
 ## Tell me more!
 - `TODO: price`
 - 7 color choices
-  - <span style="color:red">red</span>, <span style="color:blue">blue</span>e, <span style="color:white">white</span>, <span style="color:green">green</span>, <span style="color:yellow">yellow</span>, and <span style="color:pink">pink</span>.
+  - <span style="background-color:#ddd;color:red">red</span>, <span style="background-color:#ddd;color:blue">blue</span>, <span style="background-color:#ddd;color:white">white</span>, <span style="background-color:#ddd;color:green">green</span>, <span style="background-color:#ddd;color:yellow">yellow</span>, and <span style="background-color:#ddd;color:pink">pink</span>.
 - 8 customizable slots
   - Each one plays on a loop. A ninth "demo mode" plays all the slots, a single time through, in a loop.
 - Long lasting battery
@@ -45,9 +45,9 @@ Each can store up to 8 different things, chosen with a button.
   - `TODO: provide link to repos for the Linux utils and info`
 
 ## Another satisfied customer!
-| Before PixelPins | After PixelPins |
-|  :---:  |  :---:  |
-|  <img src="https://github.com/madcock/PixelPins/assets/2106838/68e4d674-3801-4fff-88f3-3521466ecc75" alt="Special K before PixelPins" width="240" height="322">  |  <img src="https://github.com/madcock/PixelPins/assets/2106838/91404f92-4d0a-407d-bd2e-e88741ffbc3e" alt="Special K after PixelPins" width="240" height="322">  |
+|Before PixelPins|After PixelPins|
+|:---:|:---:|
+|<img src="https://github.com/madcock/PixelPins/assets/2106838/68e4d674-3801-4fff-88f3-3521466ecc75" alt="Special K before PixelPins" width="240" height="322">|<img src="https://github.com/madcock/PixelPins/assets/2106838/91404f92-4d0a-407d-bd2e-e88741ffbc3e" alt="Special K after PixelPins" width="240" height="322">|
 
 [^1]: Press the button to manually change your stike count and status. These things don't have WiFi, so can't update automatically.
 [^2]: Please, no offensive language. I reserve the right to deny requests, but am happy to work with you to get something you like on the badge. Thanks!
