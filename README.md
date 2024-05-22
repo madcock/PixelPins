@@ -18,7 +18,7 @@ Each can store up to 8 different things, chosen with a button.
 - 6 color choices
   - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, <span style="background-color:#000;color:lime;font-weight:bold;padding:3px">green</span>, <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>, and <span style="background-color:#000;color:pink;font-weight:bold;padding:3px">pink</span>.
 - 8 customizable slots for messages
-  - Animation or text
+  - Animation or message text
   - Each one plays on a loop
   - A ninth demo mode plays all the slots, a single time through, in a loop
 - 14+ hours of power on a full charge [^3]
@@ -27,15 +27,16 @@ Each can store up to 8 different things, chosen with a button.
 - Available at the [Pinball Wrestling](https://pinballwrestling.com/) booth at [The Northwest Pinball & Arcade Show](https://www.nwpinballshow.com/)
 
 ## Can I update it myself :question:
-- Yes, you can put whatever text you want on them, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
-  - `TODO: provide links to all customanimations`
+- Yes, you can put whatever message text you want on them, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
+  - `TODO: provide download links to all custom animations`
 - Android apps (easy)
   - There are two Android apps for loading custom text via Bluetooth, but they cannot load custom animations.
   - `TODO: provide link to instructions and download link for official Chinese app`
   - `TODO: provide link to instructions and download link for open source English app`
-- Windows application (advanced)
-  - This tool can load any type of supported content on the PixelPin, but it's also not translated well, and a bit buggy.
-  - `TODO: provide link to instructions and download link for official Chinese app`
+- Windows applications (advanced)
+  - These tools can load any type of supported content on the PixelPin, but are not translated well, and a bit buggy.
+  - `TODO: provide link to instructions and download link for official Chinese app #1`
+  - `TODO: provide link to instructions and download link for official Chinese app #2`
 - Linux tools (expert)
   - Open source command line tools exist as well. Links are provided below, but only recommended if you want to take on a project, similar to a moderately difficult Raspberry Pi project. (A Pi can definitely be used to update the PixelPins.)
   - `TODO: provide link to repos for the Linux utils and info`
