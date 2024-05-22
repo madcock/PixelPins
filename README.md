@@ -20,7 +20,7 @@ Each can store up to 8 different things, chosen with a button.
 ## Tell me more :exclamation:
 - `TODO: price`
 - 7 color choices
-  - <span style="background-color:#000;color:red">&npsp;  red  &npsp;  </span>, <span style="background-color:#000;color:blue">blue</span>, <span style="background-color:#000;color:white">white</span>, <span style="background-color:#000;color:green">green</span>, <span style="background-color:#000;color:yellow">yellow</span>, and <span style="background-color:#000;color:pink">pink</span>.
+  - <span style="background-color:#000;color:red">&npsp;  red  &npsp;  </span>, <span style="background-color:#000;color:dodgerblue">blue</span>, <span style="background-color:#000;color:white">white</span>, <span style="background-color:#000;color:green">green</span>, <span style="background-color:#000;color:yellow">yellow</span>, and <span style="background-color:#000;color:pink">pink</span>.
 - 8 customizable slots
   - Each one plays on a loop. A ninth demo mode plays all the slots, a single time through, in a loop.
 - Long lasting battery
