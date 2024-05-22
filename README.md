@@ -1,53 +1,39 @@
-|  Arcade and Video Games  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
-|  <kbd><img src="images/Invaders1_PREVIEW.gif"></kbd>  |  Badge Invaders 1  |
-|  <kbd><img src="images/Invaders2_PREVIEW.gif"></kbd>  |  Badge Invaders 2  |
-|  <kbd><img src="images/Invaders3_PREVIEW.gif"></kbd>  |  Badge Invaders 3  |
-|  <kbd><img src="images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
-|  <kbd><img src="images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
+# What are PixelPins :question:
+They're like personalized pinball DMD displays you can wear. \
+Use it as a fashion statement, or a tournament status tracker. \
+Each can store up to 8 different things, chosen with a button.
 
-|  Pinball Tourney Set 1  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game)  |
-|  <kbd><img src="images/KnockoutHeart2_PREVIEW.gif"></kbd>  |  1 Strike (video game)  |
-|  <kbd><img src="images/KnockoutHeart1_PREVIEW.gif"></kbd>  |  2 Strikes (video game)  |
-|  <kbd><img src="images/GAME_OVER_PREVIEW.gif"></kbd>  |  3 Strikes (video game)  |
-|  <kbd><img src="images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
-|  <kbd><img src="images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
-|  <kbd><img src="images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
-|  <kbd><img src="images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
+## What can I put on them :question:
+- more than 30 custom animations to choose from including...
+  - video game characters
+  - pinball 3-strike knockout tournament status[^2]
+  - local pinball memes and slogans
+  - general pinball phrases
+- custom text (scrolling if needed)
+  - your name
+  - your pinball initials
+  - whatever you want![^3]
 
-|  Pinball Tourney Set 2  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="images/KnockoutNoStrikes_PREVIEW.gif"></kbd>  |  No Strikes  |
-|  <kbd><img src="images/KnockoutStrike1_PREVIEW.gif"></kbd>  |  1 Strike  |
-|  <kbd><img src="images/KnockoutStrike2_PREVIEW.gif"></kbd>  |  2 Strikes  |
-|  <kbd><img src="images/KnockoutStrike3_PREVIEW.gif"></kbd>  |  3 Strikes  |
-|  <kbd><img src="images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
-|  <kbd><img src="images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
-|  <kbd><img src="images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
-|  <kbd><img src="images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
+<kbd><img src="images/Frogger_PREVIEW.gif"></kbd> \
+[Hop over and check out the options!](art/)
 
-|  Optional for Tourney Sets  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
+## How do I update it :question:
+- Android apps (easy)
+  - There are a couple of Android apps for loading custom text via Bluetooth, but they cannot load complex animations.
+  - `TODO: provide link to instructions and download link for official Chinese app`
+  - `TODO: provide link to instructions and download link for open source English app`
+- Windows application (advanced)
+  - Custom animations need to be loaded with software on a Windows machine.
+  - `TODO: provide link to instructions and download link for official Chinese app`
+- Linux tools (expert)
+  - Open source command line tools exist as well. Links are provided below, but only recommended if you want to take on a project, similar to a moderately difficult Raspberry Pi project. (A Pi can definitely be used to update the PixelPins.)
+  - `TODO: provide link to repos for the Linux utils and info`
 
-|  Local Pinball Scene  |  |
+## Another satisfied customer!
+| Before PixelPins |  After PixelPins |
 |  :---:    |  :---        |
-|  <kbd><img src="images/Add-a-ballTime_PREVIEW.gif"></kbd>  |  What time is it?  |
-|  <kbd><img src="images/AllThePoints_PREVIEW.gif"></kbd>  |  How many points do we need?  |
-|  <kbd><img src="images/GoodLuckHaveFun_PREVIEW.gif"></kbd>  |  Pinball Etiquette  |
-|  <kbd><img src="images/MyBallsAreFullOfMagic_PREVIEW.gif"></kbd>  |  The Theatre of Magic awaits...  |
-|  <kbd><img src="images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
+|  <img src="https://github.com/madcock/PixelPins/assets/2106838/68e4d674-3801-4fff-88f3-3521466ecc75" alt="Special K before PixelPins" width="240" height="322">  |  <img src="https://github.com/madcock/PixelPins/assets/2106838/91404f92-4d0a-407d-bd2e-e88741ffbc3e" alt="Special K after PixelPins" width="240" height="322">  |
 
-|  Pinball Miscellanea  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
-|  <kbd><img src="images/ShootAgain_PREVIEW.gif"></kbd>  |  Shoot Again  |
-|  <kbd><img src="images/SpecialWhenLit_PREVIEW.gif"></kbd>  |  Special When Lit  |
-|  <kbd><img src="images/TILT_PREVIEW.gif"></kbd>  |  TILT  |
-
-|  Work in Progress...  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="images/Spaceship_PREVIEW.gif"></kbd>  |  This will likely die in a fire soon.  |
+[^1]: There's a pin on the back and a magnet included to stick them to a refrigerator or anything magnetic!
+[^2]: Press the button to manually change your stike count and status. These things don't have WiFi, so can't update automatically.
+[^3]: Please, no offensive language. I reserve the right to deny requests, but am happy to work with you to get something you like on the badge. Thanks!
