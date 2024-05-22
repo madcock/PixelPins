@@ -3,7 +3,7 @@ Many different animations can be put on the badge.\
 There are a maximum of 8 slots per badge, so choose up to 8 different animations. [^1]\
 Any of the slots can be used for [custom text](../custom_text) instead of animations.
 
-## Arcade and Video Games {#arcade}
+## Arcade and Video Games
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
@@ -13,7 +13,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
 |  <kbd><img src="../images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 
-## Pinball Tourney Set 1 {#tourney}
+## Pinball Tourney Set 1
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game)  |
@@ -42,7 +42,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
 
-## Local Pinball Scene {#localpinball}
+## Local Pinball Scene
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/Add-a-ballTime_PREVIEW.gif"></kbd>  |  What time is it?  |
@@ -51,7 +51,7 @@ Any of the slots can be used for [custom text](../custom_text) instead of animat
 |  <kbd><img src="../images/MyBallsAreFullOfMagic_PREVIEW.gif"></kbd>  |  The Theatre of Magic awaits...  |
 |  <kbd><img src="../images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
 
-## Pinball Miscellanea {#miscpinball}
+## Pinball Miscellanea
 |  |  |
 |  :---:    |  :---        |
 |  <kbd><img src="../images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
