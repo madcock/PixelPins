@@ -1,6 +1,6 @@
 <a href="../">Back to PixelPins home</a>
 
-# Art
+# Animations
 Many different animations can be put on the badge.\
 There are a maximum of 8 slots per badge, so choose up to 8 different animations. [^1]\
 Any of the slots can be used for [custom text](../custom_text) instead of animations.
