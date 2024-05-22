@@ -46,7 +46,7 @@ Each can store up to 8 different things, chosen with a button.
 
 ## Another satisfied customer!
 | Before PixelPins | After PixelPins |
-|  :---: |  :---:  |
+|  :---:  |  :---:  |
 |  <img src="https://github.com/madcock/PixelPins/assets/2106838/68e4d674-3801-4fff-88f3-3521466ecc75" alt="Special K before PixelPins" width="240" height="322">  |  <img src="https://github.com/madcock/PixelPins/assets/2106838/91404f92-4d0a-407d-bd2e-e88741ffbc3e" alt="Special K after PixelPins" width="240" height="322">  |
 
 [^1]: Press the button to manually change your stike count and status. These things don't have WiFi, so can't update automatically.
