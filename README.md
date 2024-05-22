@@ -14,7 +14,7 @@ Each can store up to 8 different things, chosen with a button.
   - your pinball initials
   - whatever you want! [^2]
 
-<kbd><img src="images/Frogger_PREVIEW.gif"></kbd> \
+<kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd> \
 [Hop over and check out the options!](art/)
 
 ## Tell me more!
