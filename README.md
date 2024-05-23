@@ -9,7 +9,7 @@ Each can store up to 8 different things, chosen with a button.
 - [more than 30 animations to choose from](art/) \
   <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd>
 - [custom messages](custom_text/) \
-  <kbd><a href="art/"><img src="images/NWPAS-Inova-11x6_PREVIEW.gif"></a></kbd>
+  <kbd><a href="custom_text/"><img src="images/NWPAS-Inova-11x6_PREVIEW.gif"></a></kbd>
 
 ## Tell me more :exclamation:
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
@@ -26,21 +26,9 @@ Each can store up to 8 different things, chosen with a button.
 - Available at the [Pinball Wrestling](https://pinballwrestling.com/) booth at [The Northwest Pinball & Arcade Show](https://www.nwpinballshow.com/)
 
 ## Can I update it myself :question:
-- Yes, you can put whatever message text you want on them, but only the Windows and Linux tools can put custom animations (back) on the PixelPin.
-  - `TODO: provide download links to all custom animations`
-- Android apps (easy)
-  - There are two Android apps for loading custom text via Bluetooth, but they cannot load custom animations.
-  - `TODO: provide link to instructions and download link for official Chinese app`
-  - `TODO: provide link to instructions and download link for open source English app`
-- Windows applications (advanced)
-  - These tools can load any type of supported content on the PixelPin, but are not translated well, and a bit buggy.
-  - `TODO: provide link to instructions and download link for official Chinese app #1`
-  - `TODO: provide link to instructions and download link for official Chinese app #2`
-- Linux tools (expert)
-  - Open source command line tools exist as well. Links are provided below, but only recommended if you want to take on a project, similar to a moderately difficult Raspberry Pi project. (A Pi can definitely be used to update the PixelPins.)
-  - `TODO: provide link to repos for the Linux utils and info`
+Yes! More information [here](how_to_update/).
 
-## Another satisfied customer :exclamation:
+## Customer Testimonials
 
 |  |  |
 |:---:|:---:|
