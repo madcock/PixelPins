@@ -33,6 +33,6 @@ Yes! More information [here](how_to_update/).
 
 <br/>
 
-[^1]: 100% brightness is *very* bright and is too bright to show well in most photos. 75% is recommended.
+[^1]: 100% brightness is *very* bright. 75% is recommended.
 [^2]: On a full charge: 14.5 hours at 100% brightness, 21 hours at 25% brightness.
-[^3]: Testing showed the battery took an hour and 15 minutes to fully charge.
+[^3]: Testing showed the battery took 1 hour and 15 minutes to fully charge.
