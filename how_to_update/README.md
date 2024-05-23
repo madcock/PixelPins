@@ -4,8 +4,8 @@
 
 There are several ways to put new messages and animations on the PixelPin.
 - Android apps can update it wirelessly via bluetooth
-- Windows applications can update it via USB cable $$e^{[^1]}$$
-- Linux command line tools can update it via USB cable (and may work on Macs) <sup>[^2]</sup>
+- Windows applications can update it via USB cable [^1]
+- Linux command line tools can update it via USB cable (and may work on Macs) [^2]
 
 The Android apps can only load custom messages, and *not* animations.
 
