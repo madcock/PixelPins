@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.footnote-ref {
+    vertical-align: super;
+}
+
 kbd {
     background: black;
     padding: 3px 5px;
