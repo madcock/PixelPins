@@ -7,7 +7,7 @@ Each can store up to 8 different things, chosen with a button.
 
 ## What can I put on them :question:
 - [more than 30 animations to choose from](art/) \
-  <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd>
+  <kbd><a href="art/"><img src="images/GAME_OVER_PREVIEW.gif"></a></kbd>
 - [custom messages](custom_text/) \
   <kbd><a href="custom_text/"><img src="images/NWPAS-Inova-11x6_PREVIEW.gif"></a></kbd>
 
