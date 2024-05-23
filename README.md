@@ -6,11 +6,10 @@ Each can store up to 8 different things, chosen with a button.
 `TODO: picture/video of actual badge`
 
 ## What can I put on them :question:
-- more than 30 animations to choose from... \
-  [Hop over and check out the options!](art/) \
+- [more than 30 animations to choose from](art/) \
   <kbd><a href="art/"><img src="images/Frogger_PREVIEW.gif"></a></kbd>
-- custom messages \
-  [Find out more about personalized messages](custom_text/)
+- [custom messages](custom_text/) \
+  <kbd><a href="art/"><img src="images/NWPAS-Inova-11x6_PREVIEW.gif"></a></kbd>
 
 ## Tell me more :exclamation:
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
