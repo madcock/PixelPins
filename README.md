@@ -14,15 +14,15 @@ Each can store up to 8 different things, chosen with a button.
 
 ## Tell me more :exclamation:
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
-- 4 selectable brightness settings. [^1]
+- 4 selectable brightness settings. <sup>[^1]</sup>
 - 6 color choices
   - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, <span style="background-color:#000;color:lime;font-weight:bold;padding:3px">green</span>, <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>, and <span style="background-color:#000;color:pink;font-weight:bold;padding:3px">pink</span>.
 - 8 customizable slots for messages
   - Animation or message text
   - Each one plays on a loop
   - A ninth demo mode plays all the slots, a single time through, in a loop
-- 14+ hours of power on a full charge [^2]
-  - Rechargeable battery takes about an hour to charge when empty [^3]
+- 14+ hours of power on a full charge <sup>[^2]</sup>
+  - Rechargeable battery takes about an hour to charge when empty <sup>[^3]</sup>
   - Comes with a Micro USB cable for charging
 - Available at the [Pinball Wrestling](https://pinballwrestling.com/) booth at [The Northwest Pinball & Arcade Show](https://www.nwpinballshow.com/)
 
