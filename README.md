@@ -29,7 +29,7 @@ Each can store up to 8 different things, chosen with a button.
 Yes! More information [here](how_to_update/).
 
 ## What are people saying :question:
-[Customer testimonials](testimonials/)
+Show me customer [testimonials](testimonials/)
 
 <br/>
 
