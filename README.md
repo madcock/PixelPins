@@ -14,15 +14,15 @@ Each can store up to 8 different things, chosen with a button.
 
 ## Tell me more :exclamation:
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
-- 4 selectable brightness settings. [^4]
+- 4 selectable brightness settings. [^1]
 - 6 color choices
   - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, <span style="background-color:#000;color:lime;font-weight:bold;padding:3px">green</span>, <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>, and <span style="background-color:#000;color:pink;font-weight:bold;padding:3px">pink</span>.
 - 8 customizable slots for messages
   - Animation or message text
   - Each one plays on a loop
   - A ninth demo mode plays all the slots, a single time through, in a loop
-- 14+ hours of power on a full charge [^3]
-  - Rechargeable battery takes about an hour to charge when empty [^2]
+- 14+ hours of power on a full charge [^2]
+  - Rechargeable battery takes about an hour to charge when empty [^3]
   - Comes with a Micro USB cable for charging
 - Available at the [Pinball Wrestling](https://pinballwrestling.com/) booth at [The Northwest Pinball & Arcade Show](https://www.nwpinballshow.com/)
 
@@ -49,7 +49,6 @@ Each can store up to 8 different things, chosen with a button.
 
 ## Notes
 
-[^1]: Press the button to manually change your stike count and status. These things don't have WiFi, so can't update automatically.
-[^2]: Testing showed the battery took an hour and 15 minutes to fully charge.
-[^3]: On full charge and 100% brightness, the battery lasted 14.5 hours before turning off.
-[^4]: 100% brightness is *very* bright and is too bright to show well in most photos. 75% is recommended.
+[^1]: 100% brightness is *very* bright and is too bright to show well in most photos. 75% is recommended.
+[^2]: On a full charge: 14.5 hours at 100% brightness, 21 hours at 25% brightness.
+[^3]: Testing showed the battery took an hour and 15 minutes to fully charge.
