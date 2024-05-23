@@ -9,10 +9,10 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 
 |  |  |
 |  :---:    |  :---        |
-|  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
 |  <kbd><img src="../images/Invaders1_PREVIEW.gif"></kbd>  |  Badge Invaders 1  |
 |  <kbd><img src="../images/Invaders2_PREVIEW.gif"></kbd>  |  Badge Invaders 2  |
 |  <kbd><img src="../images/Invaders3_PREVIEW.gif"></kbd>  |  Badge Invaders 3  |
+|  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
 |  <kbd><img src="../images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
 |  <kbd><img src="../images/JOUSTFLY_PREVIEW.gif"></kbd>  |  Ostrich Fly  |
 |  <kbd><img src="../images/JOUSTWALK_PREVIEW.gif"></kbd>  |  Ostrich Walk  |
