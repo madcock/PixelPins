@@ -2,10 +2,10 @@
 
 ## How can I update my PixelPin?
 
-There are several ways to put new messages and animations on the PixelPin. \
+There are several ways to put new messages and animations on the PixelPin.
 - Android apps can update it wirelessly via bluetooth
-- Windows applications can update it via USB cable<sup>[^1]</sup>
-- Linux command line tools can update it via USB cable (and may work on Macs)<sup>[^2]</sup>
+- Windows applications can update it via USB cable $$e^{[^1]}$$
+- Linux command line tools can update it via USB cable (and may work on Macs) <sup>[^2]</sup>
 
 The Android apps can only load custom messages, and *not* animations.
 
@@ -24,7 +24,7 @@ These tools can load any type of supported content on the PixelPin, but are not 
 `TODO: provide link to instructions and download link for official Chinese app #2`
 
 ## Linux command-line tools (expert)
-Open source command line tools exist as well, but are only recommended if you want to take on a project. It's similar to a moderately difficult Raspberry Pi project. (A Pi can definitely be used to update the PixelPins.) \
+Open source command line tools exist as well, but are only recommended if you want to take on a project. It's similar to a moderately difficult Raspberry Pi project. (A Pi could also be used to update the PixelPins.) \
 \
 `TODO: provide link to repos for the Linux utils and info`
 
