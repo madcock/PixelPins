@@ -1,3 +1,5 @@
+<a href="../">Back to PixelPins home</a>
+
 ## How can I update my PixelPin?
 
 There are several ways to put new messages and animations on the PixelPin. \
