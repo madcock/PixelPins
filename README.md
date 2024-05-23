@@ -28,13 +28,10 @@ Each can store up to 8 different things, chosen with a button.
 ## Can I update it myself :question:
 Yes! More information [here](how_to_update/).
 
-## Customer Testimonials
+## What are people saying :question:
+[Customer testimonials](testimonials/)
 
-|  |  |
-|:---:|:---:|
-|Before PixelPins<br/><img src="https://github.com/madcock/PixelPins/assets/2106838/68e4d674-3801-4fff-88f3-3521466ecc75" alt="Special K before PixelPins" width="240" height="322">|After PixelPins<br/><img src="https://github.com/madcock/PixelPins/assets/2106838/91404f92-4d0a-407d-bd2e-e88741ffbc3e" alt="Special K after PixelPins" width="240" height="322">|
-
-## Notes
+<br/>
 
 [^1]: 100% brightness is *very* bright and is too bright to show well in most photos. 75% is recommended.
 [^2]: On a full charge: 14.5 hours at 100% brightness, 21 hours at 25% brightness.
