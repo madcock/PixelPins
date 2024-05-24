@@ -17,8 +17,8 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/Berzerk_YELLOW_PREVIEW.gif"></kbd>  |  Intruder Alert!  |
 |  <kbd><img src="../images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
 |  <kbd><img src="../images/Spaceship_PREVIEW.gif"></kbd>  |  *PEW PEW PEW*  |
-|  <kbd><img src="../images/JOUSTFLY_PREVIEW.gif"></kbd>  |  Ostrich Fly  |
-|  <kbd><img src="../images/JOUSTWALK_PREVIEW.gif"></kbd>  |  Ostrich Walk  |
+|  <kbd><img src="../images/JOUSTFLY_PREVIEW.gif"></kbd>  |  Flying Ostrich  |
+|  <kbd><img src="../images/JOUSTWALK_PREVIEW.gif"></kbd>  |  Ostrich Trot  |
 |  <kbd><img src="../images/Venture_PREVIEW.gif"></kbd>  |  Bat!  |
 |  <kbd><img src="../images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 
