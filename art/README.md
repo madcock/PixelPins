@@ -16,6 +16,7 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/Frogger_PREVIEW.gif"></kbd>  |  Froggy  |
 |  <kbd><img src="../images/Berzerk_YELLOW_PREVIEW.gif"></kbd>  |  Intruder Alert!  |
 |  <kbd><img src="../images/Pacman_PREVIEW.gif"></kbd>  |  Chomp chomp!  |
+|  <kbd><img src="../images/Spaceship_PREVIEW.gif"></kbd>  |  *PEW PEW PEW*  |
 |  <kbd><img src="../images/JOUSTFLY_PREVIEW.gif"></kbd>  |  Ostrich Fly  |
 |  <kbd><img src="../images/JOUSTWALK_PREVIEW.gif"></kbd>  |  Ostrich Walk  |
 |  <kbd><img src="../images/Venture_PREVIEW.gif"></kbd>  |  Bat!  |
@@ -74,10 +75,5 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/SpecialWhenLit_PREVIEW.gif"></kbd>  |  Special When Lit  |
 |  <kbd><img src="../images/TILT_PREVIEW.gif"></kbd>  |  TILT  |
 
-## Work in Progress...
-
-|  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="../images/Spaceship_PREVIEW.gif"></kbd>  |  Galaga ship, but *what will it do?*  |
 
 [^1]: It may not be possible to use 8 of the longest animations on the same badge due to memory limits. (The video game characters at the top are the largest.)
