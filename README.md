@@ -6,8 +6,10 @@ Each can store up to 8 different things, chosen with a button.
 `TODO: picture/video of actual badge`
 
 ## What can I put on them :question:
-- [more than 30 animations to choose from](art/) \
+- [more than 30 animations to choose](art/) \
   <kbd><a href="art/"><img src="images/GAME_OVER_PREVIEW.gif"></a></kbd>
+- [pinball (knockout) tournament status](art_knockout/) \
+  <kbd><a href="art/"><img src="images/KnockoutSet2_Preview.gif"></a></kbd>
 - [custom messages](custom_text/) \
   <kbd><a href="custom_text/"><img src="images/NWPAS-Inova-11x6_PREVIEW.gif"></a></kbd>
 
