@@ -15,7 +15,7 @@ Each can store up to 8 different things, chosen with a button.
 - Lightweight, with a built in pin to attach to clothing and an optional magnet.
 - 4 selectable brightness settings[^1]
 - 6 color choices
-  - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, <span style="background-color:#000;color:lime;font-weight:bold;padding:3px">green</span>, <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>, and <span style="background-color:#000;color:pink;font-weight:bold;padding:3px">pink</span>.
+  - <span style="background-color:#000;color:red;font-weight:bold;padding:3px">red</span>, <span style="background-color:#000;color:dodgerblue;font-weight:bold;padding:3px">blue</span>, <span style="background-color:#000;color:white;font-weight:bold;padding:3px">white</span>, and <span style="background-color:#000;color:yellow;font-weight:bold;padding:3px">yellow</span>.
 - 8 customizable slots for messages
   - Animation or message text
   - Each one plays on a loop
