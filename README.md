@@ -9,7 +9,7 @@ Each can store up to 8 different things, chosen with a button.
 - [more than 30 animations to choose](art/) \
   <kbd><a href="art/"><img src="images/GAME_OVER_PREVIEW.gif"></a></kbd>
 - [pinball (knockout) tournament status](art_knockout/) \
-  <kbd><a href="art/"><img src="images/KnockoutSet2_Preview.gif"></a></kbd>
+  <kbd><a href="art_knockout/"><img src="images/KnockoutSet2_Preview.gif"></a></kbd>
 - [custom messages](custom_text/) \
   <kbd><a href="custom_text/"><img src="images/NWPAS-Inova-11x6_PREVIEW.gif"></a></kbd>
 
