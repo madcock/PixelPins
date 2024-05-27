@@ -21,38 +21,6 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/IBrokeTheCode_PREVIEW.gif"></kbd>  |  The Code  |
 |  <kbd><img src="../images/Venture_PREVIEW.gif"></kbd>  |  Bat!  |
 
-## Pinball Tourney Set 1
-
-|  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="../images/KnockoutHeart3_PREVIEW.gif"></kbd>  |  No Strikes (video game)  |
-|  <kbd><img src="../images/KnockoutHeart2_PREVIEW.gif"></kbd>  |  1 Strike (video game)  |
-|  <kbd><img src="../images/KnockoutHeart1_PREVIEW.gif"></kbd>  |  2 Strikes (video game)  |
-|  <kbd><img src="../images/GAME_OVER_PREVIEW.gif"></kbd>  |  3 Strikes (video game)  |
-|  <kbd><img src="../images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
-|  <kbd><img src="../images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
-|  <kbd><img src="../images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
-|  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
-
-## Pinball Tourney Set 2
-
-|  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="../images/KnockoutNoStrikes_PREVIEW.gif"></kbd>  |  No Strikes  |
-|  <kbd><img src="../images/KnockoutStrike1_PREVIEW.gif"></kbd>  |  1 Strike  |
-|  <kbd><img src="../images/KnockoutStrike2_PREVIEW.gif"></kbd>  |  2 Strikes  |
-|  <kbd><img src="../images/KnockoutStrike3_PREVIEW.gif"></kbd>  |  3 Strikes  |
-|  <kbd><img src="../images/Knockout1ST_PREVIEW.gif"></kbd>  |  1st Place  |
-|  <kbd><img src="../images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
-|  <kbd><img src="../images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
-|  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
-
-## Optional for Tourney Sets
-
-|  |  |
-|  :---:    |  :---        |
-|  <kbd><img src="../images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
-
 ## Local Pinball Scene
 
 |  |  |
