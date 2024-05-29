@@ -7,7 +7,7 @@ Each can store up to 8 different things, chosen with a button.
 
 ## What can I put on them :question:
 - [more than 30 pinball and arcade animations to choose](art/) \
-  <kbd><a href="art/"><img src="images/Berzerk_YELLOW_PREVIEW.gif"></a></kbd>
+  <kbd><a href="art/"><img src="images/Invaders2_PREVIEW.gif"></a></kbd>
 - [pinball (knockout) tournament status](art_knockout/) \
   <kbd><a href="art_knockout/"><img src="images/KnockoutSet2_Preview.gif"></a></kbd>
 - [custom messages](custom_text/) \
