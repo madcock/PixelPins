@@ -43,9 +43,6 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
 |  <kbd><img src="../images/ShootAgain_PREVIEW.gif"></kbd>  |  Shoot Again  |
 |  <kbd><img src="../images/SpecialWhenLit_PREVIEW.gif"></kbd>  |  Special When Lit  |
-|  <kbd><img src="../images/Danger_PREVIEW.gif"></kbd>  |  Behave yourself.  |
-|  <kbd><img src="../images/DoubleDanger_PREVIEW.gif"></kbd>  |  Hey, stop it!  |
-|  <kbd><img src="../images/TILT_PREVIEW.gif"></kbd>  |  TILT  |
 
 
 [^1]: It may not be possible to use 8 of the longest animations on the same badge due to memory limits. (The video game characters at the top are the largest.)
