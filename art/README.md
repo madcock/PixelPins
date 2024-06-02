@@ -31,7 +31,6 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 |  <kbd><img src="../images/MyBallsAreFullOfMagic_PREVIEW.gif"></kbd>  |  The Theatre of Magic awaits...  |
 |  <kbd><img src="../images/YayPinball_PREVIEW.gif"></kbd>  |  YAY!  |
 |  <kbd><img src="../images/PlayBetter_PREVIEW.gif"></kbd>  |  You know what you should do!  |
-|  <kbd><img src="../images/Pingolf_PREVIEW.gif"></kbd>  |  Pingolf  |
 |  <kbd><img src="../images/SkillShot_PREVIEW.gif"></kbd>  |  The `Zine on the scene!  |
 |  <kbd><img src="../images/SpecialsComingThrough_PREVIEW.gif"></kbd>  |  SPECIALS!!!  |
 |  <kbd><img src="../images/SpecialK_PREVIEW.gif"></kbd>  |  For the Pinball Wrestling fans!  |
@@ -40,6 +39,7 @@ Any of the slots can be used for [custom messages](../custom_text) instead of an
 
 |  |  |
 |  :---:    |  :---        |
+|  <kbd><img src="../images/Pingolf_PREVIEW.gif"></kbd>  |  Pingolf  |
 |  <kbd><img src="../images/ExtraBall_PREVIEW.gif"></kbd>  |  Extra Ball  |
 |  <kbd><img src="../images/ShootAgain_PREVIEW.gif"></kbd>  |  Shoot Again  |
 |  <kbd><img src="../images/SpecialWhenLit_PREVIEW.gif"></kbd>  |  Special When Lit  |
