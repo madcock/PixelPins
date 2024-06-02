@@ -38,4 +38,4 @@ There are a maximum of 8 slots per badge, so choose up to 8 different animations
 |  <kbd><img src="../images/Knockout2ND_PREVIEW.gif"></kbd>  |  2nd Place  |
 |  <kbd><img src="../images/Knockout3RD_PREVIEW.gif"></kbd>  |  3rd Place  |
 |  <kbd><img src="../images/Knockout4TH_PREVIEW.gif"></kbd>  |  4th Place  |
-|  <kbd><img src="../images/ISuckAtPinball_PREVIEW.gif"></kbd>  |  Are you good at pinball?  |
+
