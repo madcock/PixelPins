@@ -34,10 +34,9 @@ Yes! More information [here](how_to_update/).
 Show me customer [testimonials](testimonials/)
 
 ## Signup for more information :question:
-If you're interested in signing up with your email address, there's a [form here](https://adcockm.pythonanywhere.com/). If sold out, it takes about 2-3 weeks to order more. Depending on interest, I might do pre-orders for the next batch. Thanks!
-<br/>
-<hr/>
+If you're interested in signing up for updates with your email address, there's a [form here](https://adcockm.pythonanywhere.com/). If sold out, it takes about 2-3 weeks to order more. Depending on interest, I might do pre-orders for the next batch. Thanks!
 
+## 
 [^1]: 44x11 pixel resolution, so a lot smaller than a DMD which is 128x32.
 [^2]: 100% brightness is *very* bright. 75% is recommended.
 [^3]: On a full charge: 14.5 hours at 100% brightness, 21 hours at 25% brightness.
