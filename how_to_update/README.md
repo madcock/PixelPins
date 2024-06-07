@@ -9,7 +9,7 @@ There are several ways to put new messages and animations on the PixelPin.
 
 ## Windows applications
 These tools can load any type of supported content on the PixelPin, but are not translated well, and a bit buggy.
-- Read <a href="https://github.com/madcock/PixelPins/raw/main/software/Instruction(English).pdf">Instruction(English).pdf</a>
+- Download <a href="https://github.com/madcock/PixelPins/raw/main/software/Instruction(English).pdf">Instruction(English).pdf</a>
 - Download <a href="https://github.com/madcock/PixelPins/raw/main/software/BMP%20Badge%20LED%20V9.34.msi">BMP Badge LED V9.34</a> (recommended)
 - Download <a href="https://github.com/madcock/PixelPins/raw/main/software/Mini%20LED%20Display%20V9.36.exe">Mini LED Display V9.36.exe</a>
 
