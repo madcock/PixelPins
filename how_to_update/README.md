@@ -19,7 +19,7 @@ There are two Android apps and one iOS app for loading custom text via Bluetooth
 Using these is *NOT* recommended unless you only want scrolling text or simple graphics.
 - Read <a href="https://badgemagic.fossasia.org/">information</a> about the apps
 - Download <a href="https://play.google.com/store/apps/details?id=org.fossasia.badgemagic">Badge Magic</a> for Android from Google Play
-- Download <a href="https://play.google.com/store/apps/details?id=com.yannis.ledcard">Bluetooth LED Name BadgeBadge Magic</a> for Android from Google Play
+- Download <a href="https://play.google.com/store/apps/details?id=com.yannis.ledcard">Bluetooth LED Name Badge</a> for Android from Google Play
 - Download <a href="https://apps.apple.com/us/app/ledbadge/id1461761458">Bluetooth LEDBadge</a> for iOS from App Store
 
 ## Linux command-line tools (expert)
