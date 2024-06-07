@@ -3,30 +3,28 @@
 ## How can I update my PixelPin?
 
 There are several ways to put new messages and animations on the PixelPin.
-- Android apps can update it wirelessly via bluetooth
 - Windows applications can update it via USB cable[^1]
+- Phone apps can update it wirelessly via bluetooth, but are limited to *only custom text updates*
 - Linux command line tools can update it via USB cable (and may work on Macs)[^2]
 
-The Android apps can only load custom messages, and *not* animations.
+## Windows applications
+These tools can load any type of supported content on the PixelPin, but are not translated well, and a bit buggy.
+- Read <a href="software/Instruction(English).pdf">Instruction(English).pdf</a>
+- Download <a href="software/BMP Badge LED V9.34.msi">BMP Badge LED V9.34</a> (recommended)
+- Download <a href="software/Mini LED Display V9.36.exe">Mini LED Display V9.36.exe</a>
 
-## Android (easy, but no animations)
-There are two Android apps for loading custom text via Bluetooth, but they cannot load custom animations. \
+## Phone apps
+There are two Android apps and one iOS app for loading custom text via Bluetooth, but they cannot load custom animations. \
 \
-`TODO: provide link to instructions and download link for official Chinese app` \
-\
-`TODO: provide link to instructions and download link for open source English app`
-
-## Windows applications (advanced)
-These tools can load any type of supported content on the PixelPin, but are not translated well, and a bit buggy. \
-\
-`TODO: provide link to instructions and download link for official Chinese app #1` \
-\
-`TODO: provide link to instructions and download link for official Chinese app #2`
+Using these is *NOT* recommended unless you only want scrolling text or simple graphics.
+- Read <a href="https://badgemagic.fossasia.org/">information</a> about the apps
+- Download <a href="https://play.google.com/store/apps/details?id=org.fossasia.badgemagic">Badge Magic</a> for Android from Google Play
+- Download <a href="https://play.google.com/store/apps/details?id=com.yannis.ledcard">Bluetooth LED Name BadgeBadge Magic</a> for Android from Google Play
+- Download <a href="https://apps.apple.com/us/app/ledbadge/id1461761458">Bluetooth LEDBadge</a> for iOS from App Store
 
 ## Linux command-line tools (expert)
-Open source command line tools exist as well, but are only recommended if you want to take on a project. It's similar to a moderately difficult Raspberry Pi project. (A Pi could also be used to update the PixelPins.) \
-\
-`TODO: provide link to repos for the Linux utils and info`
+Open source command line tools exist as well, but are only recommended if you want to take on a project. It's similar to a moderately difficult Raspberry Pi project. (A Pi could also be used to update the PixelPins.)
+- Visit the <a href="https://github.com/jnweiger/led-name-badge-ls32">github repository</a>
 
 [^1]: USB cable is included with the PixelPin
 [^2]: Linux tools have not been tested on Macs
