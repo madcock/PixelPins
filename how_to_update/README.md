@@ -9,9 +9,9 @@ There are several ways to put new messages and animations on the PixelPin.
 
 ## Windows applications
 These tools can load any type of supported content on the PixelPin, but are not translated well, and a bit buggy.
-- Read <a href="../software/Instruction(English).pdf">Instruction(English).pdf</a>
-- Download <a href="../software/BMP Badge LED V9.34.msi">BMP Badge LED V9.34</a> (recommended)
-- Download <a href="../software/Mini LED Display V9.36.exe">Mini LED Display V9.36.exe</a>
+- Read <a href="../../software/Instruction(English).pdf">Instruction(English).pdf</a>
+- Download <a href="../../software/BMP Badge LED V9.34.msi">BMP Badge LED V9.34</a> (recommended)
+- Download <a href="../../software/Mini LED Display V9.36.exe">Mini LED Display V9.36.exe</a>
 
 ## Phone apps
 There are two Android apps and one iOS app for loading custom text via Bluetooth, but they cannot load custom animations. \
